@@ -1,0 +1,16 @@
+E:\Coding\Final Project (Calculator)\bin\Debug\net8.0-windows\Final Project (Calculator).exe
+E:\Coding\Final Project (Calculator)\bin\Debug\net8.0-windows\Final Project (Calculator).deps.json
+E:\Coding\Final Project (Calculator)\bin\Debug\net8.0-windows\Final Project (Calculator).runtimeconfig.json
+E:\Coding\Final Project (Calculator)\bin\Debug\net8.0-windows\Final Project (Calculator).dll
+E:\Coding\Final Project (Calculator)\bin\Debug\net8.0-windows\Final Project (Calculator).pdb
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final_Project__Calculator_.Form1.resources
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).csproj.GenerateResource.cache
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).AssemblyInfoInputs.cache
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).AssemblyInfo.cs
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).csproj.CoreCompileInputs.cache
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).dll
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\refint\Final Project (Calculator).dll
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).pdb
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\Final Project (Calculator).genruntimeconfig.cache
+E:\Coding\Final Project (Calculator)\obj\Debug\net8.0-windows\ref\Final Project (Calculator).dll
